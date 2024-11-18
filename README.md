@@ -25,5 +25,7 @@ You can download the installation package from the release page.
 </p>
 
 <p align="center">
+  <img src="Screenshots/Map.png" width="30%" />
+  <img src="Screenshots/User.png" width="30%" />
   <img src="Screenshots/More.png" width="30%" />
 </p>
