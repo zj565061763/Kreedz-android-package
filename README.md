@@ -1,7 +1,7 @@
 # Kreedz-android-package
 
 This repository is used to publish the [Kreedz](https://kreedz.com/) Android app for now.
-You can download it from the Release page and report any [issues](https://github.com/zj565061763/Kreedz-android-package/issues) if you encounter one.
+You can download it from the [releases](https://github.com/zj565061763/Kreedz-android-package/releases) page and report any [issues](https://github.com/zj565061763/Kreedz-android-package/issues) if you encounter one.
 
 # Screenshots
 
