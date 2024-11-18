@@ -6,4 +6,8 @@ You can download the installation package from the release page.
 
 # Screenshots
 
-![Home-News](Screenshots/Home-News.png)
+<p align="center">
+  <img src="Screenshots/Home-News.png" width="30%" />
+  <img src="Screenshots/Home-Release.png" width="30%" />
+  <img src="Screenshots/Home-Ranking.png" width="30%" />
+</p>
