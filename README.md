@@ -17,3 +17,13 @@ You can download the installation package from the release page.
   <img src="Screenshots/Home-Blog.png" width="30%" />
   <img src="Screenshots/Home-Team.png" width="30%" />
 </p>
+
+<p align="center">
+  <img src="Screenshots/Records.png" width="30%" />
+  <img src="Screenshots/Records-LJ.png" width="30%" />
+  <img src="Screenshots/ChatBox" width="30%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/More.png" width="30%" />
+</p>
